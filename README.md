@@ -1,2 +1,4 @@
-# odev
-iniciante na programação
+.py
+lista = []
+while True:
+
